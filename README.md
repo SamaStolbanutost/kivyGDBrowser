@@ -12,3 +12,5 @@ Made with KivyMD
 
 # Other fetures:
 **Wait for it**
+
+# Project can be built with buildozer
