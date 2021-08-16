@@ -8,7 +8,7 @@ from requests import get
 from os.path import basename
 import json
 
-#Window.size = (300, 500)
+# Window.size = (300, 500) # Used to debug on PC
 
 screen_helper = """
 Screen:
@@ -101,9 +101,9 @@ Screen:
                 pos_hint: {"center_x":.5, "center_y":.4}
 """
 
-# 70521879
+# 70521879 | test level ID
 
-# 1067091 1060826
+# 1067091 1060826 | test song IDs
 
 class MainApp(MDApp):
 
